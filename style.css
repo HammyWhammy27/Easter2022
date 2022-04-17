@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://images5.alphacoders.com/415/thumb-1920-415280.jpg);
+    background-size: cover;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img {
+    height: 600px;
+    width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10%;
+}
+
+p {
+   font-size: 30px;
+   color: rgb(0, 0, 0);
+}
+
+h3{
+    font-size: 40px;
+}
+
+/* Create a website describing what you did over your spring break. 
+Gets pictures of what you did
+Make the images Rounded 
+Center all text. 
+Add an image as the background
+atleast 40 lines in your style.css
+have atleast 4 different tags in the html. 
+
+Bonus 
+use atleast 1 ID.
+use atleast 1 class.
+*/
